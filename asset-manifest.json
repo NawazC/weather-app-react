@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4c5d45d3.css",
+    "main.js": "./static/js/main.32d14891.js",
+    "static/js/453.0ccb7fb4.chunk.js": "./static/js/453.0ccb7fb4.chunk.js",
+    "static/media/toronto.jpg": "./static/media/toronto.170dcd0633a7bf517577.jpg",
+    "index.html": "./index.html",
+    "main.4c5d45d3.css.map": "./static/css/main.4c5d45d3.css.map",
+    "main.32d14891.js.map": "./static/js/main.32d14891.js.map",
+    "453.0ccb7fb4.chunk.js.map": "./static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c5d45d3.css",
+    "static/js/main.32d14891.js"
+  ]
+}
